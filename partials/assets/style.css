@@ -1,0 +1,58 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.btn-primary{
+    color: #fff;
+    background-color: grey;
+}
+.btn-classy{
+  color: #fff;
+  background-color: #1266f1;
+}
+
+.btn-classy:hover{
+  color: blue;
+  border-color: solid blue;
+  background-color: #eee;
+}
+.btn-primary:hover{
+    color: blue;
+    border-color: solid blue;
+    background-color: #eee;
+}
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    max-width: 100%;
+  }
+  .map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  
+  }
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    .transparent-input{
+       background-color:rgba(0,0,0,0) !important;
+       border:none !important;
+    }
+    .form-outline:focus{
+      outline-color: aqua;
+    }
