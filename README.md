@@ -17,6 +17,10 @@ Welcome to our Online Appointment System for Outpatient Department (OPD)! This r
 - **Backend**: PHP
 - **Database**: MySQL (Managed through phpMyAdmin)
 
+## Deployment
+
+The project has been deployed and is accessible [here]- https://sssworks.infinityfreeapp.com
+
 ## Installation
 
 1. Clone the repository:
@@ -55,6 +59,3 @@ We welcome contributions from the community. To contribute to this project, plea
 
 For any inquiries or feedback, you can contact me at shreyanshv045@gmail.com .
 
-
-Here is the link for the deployed project--
-https://sssworks.infinityfreeapp.com
