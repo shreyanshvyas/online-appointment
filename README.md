@@ -6,7 +6,6 @@ Welcome to our Online Appointment System for Outpatient Department (OPD)! This r
 
 - **Appointment Booking**: Users can easily schedule appointments with doctors online.
 - **Blood Test Booking**: Patients can book appointments for blood tests.
-- **Video Conferencing**: Virtual consultations with doctors through video conferencing.
 - **Payment Feature**: Simple QR code scanning for payment processing.
 - **Admin Monitoring**: Admin-side server for monitoring and managing appointments, blood tests, and video sessions.
 - **Responsive Design**: The website is responsive, ensuring seamless user experience across devices.
